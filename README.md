@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I will create blog posts and open source packages mainly about python and data engineering.  I have a passion for learning and sharing my knowledge with others a public as possible.  You can see a full list of what I am up to on [waylonwalker.com](waylonwalker.com).  If you found value in something I have created, please feel free to send a [tip](https://www.buymeacoffee.com/bBdtMQO)
+I will create blog posts and open source packages mainly about python and data engineering.  I have a passion for learning and sharing my knowledge with others a public as possible.If you found value in something I have created, please feel free to send a [tip](https://www.buymeacoffee.com/bBdtMQO)
 <!--
 **Sonichigo/Sonichigo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
  ---
