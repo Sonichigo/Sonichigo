@@ -18,5 +18,5 @@ I love open source.  I am not a heavy maintainer of any large libraries, but I r
 ---
 
 
-![Animesh's Github Stats](https://github-readme-stats.vercel.app/api?username=sonichigo&show_icons=true&theme=radical)
+![Animesh's Github Stats](https://github-readme-stats.vercel.app/api?username=sonichigo&show_icons=true&theme=algolia&count_private=true&hide=stars)
 
