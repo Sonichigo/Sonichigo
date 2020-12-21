@@ -16,8 +16,10 @@ I will create blog posts and open source packages mainly about python and data e
 I love open source.  I am not a heavy maintainer of any large libraries, but I really like the boyscout rule.  I contribute to things as I come across issues that I think other people might struggle with.  This may be things that are overlooked by someone who is deep into the library.  I 💕 a good onboarding readme with good example.
   
 ---
+### Spotify 
+[<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="codeSTACKr Spotify Playing" width="350" />](https://open.spotify.com/playlist/6MJYsVaxlaRqlzPdJwrKSp?si=QRctEWP1T3CBB0YChkDFjA)
 
-
+---
 ![Animesh's Github Stats](https://github-readme-stats.vercel.app/api?username=sonichigo&show_icons=true&theme=algolia&count_private=true&hide=stars)
 
 # Stargazers
