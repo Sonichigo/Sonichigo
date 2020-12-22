@@ -17,7 +17,7 @@ I love open source.  I am not a heavy maintainer of any large libraries, but I r
   
 ---
 ### Spotify 
-[<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="codeSTACKr Spotify Playing" width="350" />](https://open.spotify.com/playlist/6MJYsVaxlaRqlzPdJwrKSp?si=QRctEWP1T3CBB0YChkDFjA)
+[![Spotify](https://https://novatorem.sonichigo.vercel.app/api/spotify)](https://open.spotify.com/user/ss2d27z2x7zlh74221c746xv4)
 
 ---
 ![Animesh's Github Stats](https://github-readme-stats.vercel.app/api?username=sonichigo&show_icons=true&theme=algolia&count_private=true&hide=stars)
