@@ -17,10 +17,11 @@ I love open source.  I am not a heavy maintainer of any large libraries, but I r
   
 ---
 
-### Spotify 
-[![Spotify](https://now-playing-seven.vercel.app/api/spotify-playing")](https://open.spotify.com/user/ss2d27z2x7zlh74221c746xv4)
+### Spotify Playing 
+[<img src="https://spotify-nine-pi.vercel.app/api/spotify" alt="SONICHIGO Spotify Playing" width="350" />](https://open.spotify.com/embed/playlist/1JtSbKu33RjAKEIsLXzM03)
 
 ---
+
 ![Animesh's Github Stats](https://github-readme-stats.vercel.app/api?username=sonichigo&show_icons=true&theme=algolia&count_private=true&hide=stars)
 
 # Stargazers
