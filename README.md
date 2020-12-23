@@ -7,6 +7,9 @@
 <a href="mailto:kurosakiichigo.songoku@gmail.com?subject=Hello%20Sonichigo,%20From%20Github">
 <img src="https://img.shields.io/badge/-Gmail-%23db483b?style=flat&logo=Gmail&labelColor=red&logoColor=white">
 </a>
+<a href="https://twitter.com/Sonichigo1219">
+<img src="https://img.shields.io/badge/-Twitter-%231a91da?style=flat&logo=Twitter&logoColor=white">
+</a>
 <a target="_blank"><img src="https://visitor-badge.glitch.me/badge?page_id=sonichigo.sonichigo" alt="Vistor Badge"></a>
 </p>
 
