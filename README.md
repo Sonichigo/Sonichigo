@@ -1,6 +1,13 @@
 ### Hi there 👋
 
-I will create blog posts and open source packages mainly about python and data engineering.  I have a passion for learning and sharing my knowledge with others a public as possible.If you found value in something I have created, please feel free to send a [tip](https://www.buymeacoffee.com/bBdtMQO)
+<p align="middle">
+<a href="https://www.linkedin.com/in/sonichigo">
+<img src="https://img.shields.io/badge/Linkedin-blue?style=flat&logo=linkedin&labelColor=blue">
+</a>
+</p>
+
+
+I have a passion for learning and sharing my knowledge with others a public as possible.If you found value in something I have created, please feel free to send a [tip](https://www.buymeacoffee.com/bBdtMQO)
 <!--
 **Sonichigo/Sonichigo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
  ---
