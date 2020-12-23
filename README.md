@@ -4,6 +4,9 @@
 <a href="https://www.linkedin.com/in/sonichigo">
 <img src="https://img.shields.io/badge/Linkedin-blue?style=flat&logo=linkedin&labelColor=blue">
 </a>
+<a href="mailto:kurosakiichigo.songoku@gmail.com?subject=Hello%20Sonichigo,%20From%20Github">
+<img src="https://img.shields.io/badge/-Gmail-%23db483b?style=flat&logo=Gmail&labelColor=red&logoColor=white">
+</a>
 </p>
 
 
