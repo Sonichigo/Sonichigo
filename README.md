@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋  <img align="middle" alt="GIF" height="45px" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif"/>
 
 <p align="middle">
 <a href="https://www.linkedin.com/in/sonichigo">
