@@ -36,7 +36,7 @@ I love open source.  I am not a heavy maintainer of any large libraries, but I r
 
 ---
 
-![Animesh's Github Stats](https://github-readme-stats.vercel.app/api?username=sonichigo&show_icons=true&theme=algolia&count_private=true&hide=stars)
+![Animesh's github stats](https://github-readme-stats.vercel.app/api?username=sonichigo&show_icons=true&count_private=true&hide=stars&include_all_commits=true&theme=tokyonight)
 
 # Stargazers
 [![Forkers repo roster for @Sonichigo/HACKTOBERFEST_2021](https://reporoster.com/forks/Sonichigo/HACKTOBERFEST_2021)](https://github.com/Sonichigo/HACKTOBERFEST_2021/network/members)
