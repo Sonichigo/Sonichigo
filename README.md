@@ -43,3 +43,17 @@ I love open source.  I am not a heavy maintainer of any large libraries, but I r
 
 # Stargazers
 [![Forkers repo roster for @Sonichigo/HACKTOBERFEST_2021](https://reporoster.com/forks/Sonichigo/HACKTOBERFEST_2021)](https://github.com/Sonichigo/HACKTOBERFEST_2021/network/members)
+
+---
+
+<p align ="Center">
+ <img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github" />&nbsp;&nbsp;&nbsp;&nbsp;
+ <img src="https://img.shields.io/badge/-Git-black?style=for-the-badge&logo=git" />&nbsp;&nbsp;&nbsp;&nbsp;
+ <img src="https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />&nbsp;&nbsp;&nbsp;&nbsp;
+ <img src="https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3" />&nbsp;&nbsp;&nbsp;&nbsp;
+ </br>
+ <img src="https://img.shields.io/badge/-Python-black?style=for-the-badge&logo=Python" />&nbsp;&nbsp;&nbsp;&nbsp;
+ <img src="https://img.shields.io/badge/-Jupyter-181717?style=for-the-badge&logo=jupyter" />&nbsp;&nbsp;&nbsp;&nbsp;
+ </br>
+ <img src="https://img.shields.io/badge/Editor-VSCode-blue?style=for-the-badge&logo=visual-studio-code&logoColor=white" />&nbsp;&nbsp;&nbsp;&nbsp;
+ </p>
