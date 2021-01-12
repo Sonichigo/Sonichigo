@@ -37,9 +37,12 @@ I love open source.  I am not a heavy maintainer of any large libraries, but I r
 
 
 ---
+<p align="left">
+<img width="50%" src="https://github-readme-stats.vercel.app/api?username=sonichigo&show_icons=true&count_private=true&hide=stars&include_all_commits=true&theme=tokyonight">
+</p>
 
-![Animesh's github stats](https://github-readme-stats.vercel.app/api?username=sonichigo&show_icons=true&count_private=true&hide=stars&include_all_commits=true&theme=tokyonight&layout=compact)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sonichigo&layout=compact&theme=tokyonight&custom_title=Top%20Languages)](https://github.com/sonichigo)
+<p align ="right">
+<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sonichigo&layout=compact&theme=tokyonight&custom_title=Top%20Languages">
 
 ---
 
