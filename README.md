@@ -44,10 +44,7 @@ I love open source.  I am not a heavy maintainer of any large libraries, but I r
 
 ---
 
-# Stargazers
-[![Forkers repo roster for @Sonichigo/HACKTOBERFEST_2021](https://reporoster.com/forks/Sonichigo/HACKTOBERFEST_2021)](https://github.com/Sonichigo/HACKTOBERFEST_2021/network/members)
 
----
 
 <p align ="Center">
  <img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github" />&nbsp;&nbsp;&nbsp;&nbsp;
