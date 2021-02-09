@@ -20,6 +20,12 @@ I have a passion for learning and sharing my knowledge with others a public as p
  ---
  -->
    ---
+### Spotify Playing 🎧
+
+[![Spotify](https://spotify-omega.vercel.app/api/spotify)](https://open.spotify.com/playlist/1JtSbKu33RjAKEIsLXzM03)
+
+---
+
 
  <p>
   <img width="250" align='left' src="https://github.com/WaylonWalker/WaylonWalker/blob/main/icon/hacktoberfest.png?raw=true">
@@ -31,12 +37,6 @@ I love open source.  I am not a heavy maintainer of any large libraries, but I r
   
 ---
 
-### Spotify Playing 🎧
-
-[![Spotify](https://spotify-omega.vercel.app/api/spotify)](https://open.spotify.com/playlist/1JtSbKu33RjAKEIsLXzM03)
-
-
----
 <p align="left">
 <img width="50%" src="https://github-readme-stats.vercel.app/api?username=sonichigo&show_icons=true&count_private=true&hide=stars&include_all_commits=true&theme=tokyonight">
 
