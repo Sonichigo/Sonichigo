@@ -22,7 +22,7 @@ I have a passion for learning and sharing my knowledge with others a public as p
    ---
 ### Spotify Playing 🎧
 
-[![Spotify](https://spotify-omega.vercel.app/api/spotify)](https://open.spotify.com/playlist/1JtSbKu33RjAKEIsLXzM03)
+[![Spotify](https://spotify-omega.vercel.app/api/spotify)]()
 
 ---
 
