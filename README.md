@@ -55,6 +55,7 @@ I love open source.  I am not a heavy maintainer of any large libraries, but I r
  </br>
  <img src="https://img.shields.io/badge/-Python-black?style=for-the-badge&logo=Python" />&nbsp;&nbsp;&nbsp;&nbsp;
  <img src="https://img.shields.io/badge/-Jupyter-181717?style=for-the-badge&logo=jupyter" />&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://camo.githubusercontent.com/38547dde60fc785205f98363efa8a3340d90c118e3b4676560e75ce65e74f90a/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d466c75747465722d626c61636b3f7374796c653d666f722d7468652d6261646765266c6f676f3d466c7574746572266c6f676f436f6c6f723d303037616662" />&nbsp;&nbsp;&nbsp;&nbsp;
  </br>
  <img src="https://img.shields.io/badge/Editor-VSCode-blue?style=for-the-badge&logo=visual-studio-code&logoColor=white" />&nbsp;&nbsp;&nbsp;&nbsp;
  </p>
