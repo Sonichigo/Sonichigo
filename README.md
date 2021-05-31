@@ -37,11 +37,9 @@ I have a passion for learning and sharing my knowledge with others a public as p
 I love open source.  I am not a heavy maintainer of any large libraries, but I really like the boyscout rule.  I contribute to things as I come across issues that I think other people might struggle with.  This may be things that are overlooked by someone who is deep into the library.  I 💕 a good onboarding readme with good example.
   
 ---
-
-<p align="left">
-<img width="50%" src="https://github-readme-stats.vercel.app/api?username=sonichigo&show_icons=true&count_private=true&hide=stars&theme=tokyonight">
-
-<img width="38%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sonichigo&layout=compact&theme=tokyonight&custom_title=Top%20Languages">
+[ ![Sonichigo-HTB](http://www.hackthebox.eu/badge/image/440448)](http://www.hackthebox.eu/badge/image/440448)
+<img width="45%" src="https://github-readme-stats.vercel.app/api?username=sonichigo&show_icons=true&count_private=true&hide=stars&theme=tokyonight">
+<img width="30%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sonichigo&layout=compact&theme=tokyonight&custom_title=Top%20Languages">
 
 ---
 
