@@ -1,5 +1,5 @@
 ### Hi there 👋
-# ![SONICHIGO header](https://github.com/Sonichigo/Sonichigo/blob/main/assets/download.png)
+<!--# ![SONICHIGO header](https://github.com/Sonichigo/Sonichigo/blob/main/assets/download.png) -->
 <p align="middle">
 <img alt="GIF" height="30px" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif">&nbsp;&nbsp;
 <a href="https://dev.to/sonichigo"><img height="30" src="https://raw.githubusercontent.com/WaylonWalker/WaylonWalker/main/icon/dev.png"></a>&nbsp;&nbsp;
@@ -36,6 +36,17 @@ I love open source.  I am not a heavy maintainer of any large libraries, but I r
 [ ![Sonichigo-HTB](http://www.hackthebox.eu/badge/image/440448)](http://www.hackthebox.eu/badge/image/440448)<br>
 <img width="45%" src="https://github-readme-stats.vercel.app/api?username=sonichigo&show_icons=true&count_private=true&hide=stars&theme=tokyonight">
 <img width="35%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sonichigo&layout=compact&theme=tokyonight&custom_title=Top%20Languages">
+
+---
+<p align="center">
+  <a href="https://git.io/streak-stats">
+    <img src="http://github-readme-streak-stats.herokuapp.com?user=sonichigo&theme=react&background=0d1117&border=666">
+  </a>
+  <br>
+  <a href="https://github.com/sonichigo/github-readme-activity-graph">
+    <img src="https://activity-graph.herokuapp.com/graph?username=sonichigo&theme=react-dark&hide_border=true">
+  </a>
+</p>
 
 ---
 <p align ="Center">
