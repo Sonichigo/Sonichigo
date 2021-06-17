@@ -37,13 +37,7 @@ I love open source.  I am not a heavy maintainer of any large libraries, but I r
 <img width="35%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sonichigo&layout=compact&theme=tokyonight&custom_title=Top%20Languages">
 
 ---
-<p align="center">
-  <a href="https://git.io/streak-stats">
-    <img src="http://github-readme-streak-stats.herokuapp.com?user=sonichigo&theme=react&background=0d1117&border=666">
-  </a>
- </p>
 
----
 <p align ="Center">
  <img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github" />&nbsp;&nbsp;&nbsp;&nbsp;
  <img src="https://img.shields.io/badge/-Git-black?style=for-the-badge&logo=git" />&nbsp;&nbsp;&nbsp;&nbsp;
