@@ -33,7 +33,7 @@ I love open source.  I am not a heavy maintainer of any large libraries, but I r
   
 ---
 [ ![Sonichigo-HTB](http://www.hackthebox.eu/badge/image/440448)](http://www.hackthebox.eu/badge/image/440448)<br>
-<img width="45%" src="https://github-readme-stats.vercel.app/api?username=sonichigo&show_icons=true&count_private=true&hide=stars&theme=tokyonight">
+<img width="45%" src="https://github-readme-stats.vercel.app/api?username=sonichigo&show_icons=true&count_private=true&hide=stars&theme=radical">
 <img width="35%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sonichigo&layout=compact&theme=tokyonight&custom_title=Top%20Languages">
 
 ---
