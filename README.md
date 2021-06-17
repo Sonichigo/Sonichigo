@@ -41,11 +41,7 @@ I love open source.  I am not a heavy maintainer of any large libraries, but I r
   <a href="https://git.io/streak-stats">
     <img src="http://github-readme-streak-stats.herokuapp.com?user=sonichigo&theme=react&background=0d1117&border=666">
   </a>
-  <br>
-  <a href="https://github.com/sonichigo/github-readme-activity-graph">
-    <img src="https://activity-graph.herokuapp.com/graph?username=sonichigo&theme=react-dark&hide_border=true">
-  </a>
-</p>
+ </p>
 
 ---
 <p align ="Center">
