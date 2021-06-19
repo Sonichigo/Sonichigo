@@ -9,7 +9,7 @@
 <a target="_blank"><img src="https://visitor-badge.glitch.me/badge?page_id=sonichigo.sonichigo"></a>
 </p>
 
-## Hi there 👋
+# Hi there 👋
 I have a passion for learning and sharing my knowledge with others a public as possible.If you found value in something I have created, please feel free to send a [tip](https://www.buymeacoffee.com/sonichigo)  give me a shout out [@animesh.1219](https://www.instagram.com/animesh.1219/), give some ♥. You can also checkout my Microsoft Student Ambassadors Profile [here](https://studentambassadors.microsoft.com/en-US/profile/74597).
 <!--
 **Sonichigo/Sonichigo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -27,7 +27,7 @@ I have a passion for learning and sharing my knowledge with others a public as p
   <img width="200" align='left' src="https://github.com/Sonichigo/Sonichigo/blob/main/assets/logo.png">
 </p>
 
-## Microsoft Learn Student Ambassador
+## Microsoft Learn Student Ambassador - BETA
 
 Microsoft Learn Student Ambassadors are a global group of campus leaders who are eager to help fellow students, create robust tech communities, and develop technical and career skills for the future. I created a community at my locality to enhance other students' skills. I've conducted workshops and talks.
   
