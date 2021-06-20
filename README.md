@@ -15,7 +15,10 @@ I have a passion for learning and sharing my knowledge with others a public as p
 **Sonichigo/Sonichigo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
  ---
  -->
-   
+CheckOut My Resume 
+<p align ='center'>
+   [Resume](https://github.com/Sonichigo/Sonichigo/blob/main/assets/Animesh's%20Resume.pdf)
+</p>
 ---   
 ### Spotify Playing 🎧
  
