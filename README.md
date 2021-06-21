@@ -17,9 +17,12 @@ I have a passion for learning and sharing my knowledge with others a public as p
  -->
 CheckOut My Resume 
 <p align ='center'>
-   [Resume](https://github.com/Sonichigo/Sonichigo/blob/main/assets/Animesh's%20Resume.pdf)
+ 
+[resume](https://github.com/Sonichigo/Sonichigo/blob/main/assets/Animesh's%20Resume.pdf)
+ 
 </p>
----   
+---  
+
 ### Spotify Playing 🎧
  
 [![Spotify](https://spotify-omega.vercel.app/api/spotify)](https://open.spotify.com/playlist/1JtSbKu33RjAKEIsLXzM03)
