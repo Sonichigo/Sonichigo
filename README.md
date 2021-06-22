@@ -16,7 +16,7 @@ I have a passion for learning and sharing my knowledge with others a public as p
  ---
  -->
 <p align='center'>
-RESUME [Check Out](https://github.com/Sonichigo/Sonichigo/blob/main/assets/Animesh's%20Resume.pdf)
+RESUME -> [CheckOut](https://github.com/Sonichigo/Sonichigo/blob/main/assets/Animesh's%20Resume.pdf)
 
 </p>
 
