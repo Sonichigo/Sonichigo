@@ -33,7 +33,7 @@ RESUME -> [CheckOut](https://github.com/Sonichigo/Sonichigo/blob/main/assets/Ani
   <img width="200" align='left' src="https://github.com/Sonichigo/Sonichigo/blob/main/assets/logo.png">
 </p>
 
-## Microsoft Learn Student Ambassador - BETA
+## MLSA - BETA
 
 Microsoft Learn Student Ambassadors are a global group of campus leaders who are eager to help fellow students, create robust tech communities, and develop technical and career skills for the future. I created a community at my locality to enhance other students' skills. I've conducted workshops and talks.
   
