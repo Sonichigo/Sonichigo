@@ -47,9 +47,11 @@ I love open source.  I am not a heavy maintainer of any large libraries, but I r
 ---
 <h1 align="center"> 🔥 Contributions: </h1>
 
-[ ![Sonichigo-HTB](http://www.hackthebox.eu/badge/image/440448)](http://www.hackthebox.eu/badge/image/440448)<br>
-<img src="https://github-readme-stats.vercel.app/api?username=sonichigo&show_icons=true&count_private=true&hide=stars&theme=radical">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sonichigo&layout=compact&theme=tokyonight&custom_title=Top%20Languages">
+<!-- [![Sonichigo-HTB](http://www.hackthebox.eu/badge/image/440448)](http://www.hackthebox.eu/badge/image/440448)<br> -->
+<p>
+<img src="https://github-readme-stats.vercel.app/api?username=sonichigo&show_icons=true&count_private=true&theme=radical" width="50%">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sonichigo&layout=compact&theme=tokyonight&custom_title=Top%20Languages" width="40%">
+ </p>
 <p align="center">
  <a href="https://git.io/streak-stats">
     <img src="http://github-readme-streak-stats.herokuapp.com?user=sonichigo&theme=react&background=0d1117&border=666">
