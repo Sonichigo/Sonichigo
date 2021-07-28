@@ -47,9 +47,19 @@ Microsoft Learn Student Ambassadors are a global group of campus leaders who are
 I love open source.  I am not a heavy maintainer of any large libraries, but I really like the boyscout rule.  I contribute to things as I come across issues that I think other people might struggle with.  This may be things that are overlooked by someone who is deep into the library.  I 💕 a good onboarding readme with good example.
   
 ---
+<h1 align="center"> 🔥 Contributions: </h1>
+
 [ ![Sonichigo-HTB](http://www.hackthebox.eu/badge/image/440448)](http://www.hackthebox.eu/badge/image/440448)<br>
-<img width="45%" src="https://github-readme-stats.vercel.app/api?username=sonichigo&show_icons=true&count_private=true&hide=stars&theme=radical">
-<img width="35%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sonichigo&layout=compact&theme=tokyonight&custom_title=Top%20Languages">
+<img width="50%" src="https://github-readme-stats.vercel.app/api?username=sonichigo&show_icons=true&count_private=true&hide=stars&theme=radical">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sonichigo&layout=compact&theme=tokyonight&custom_title=Top%20Languages">
+<p align="center">
+ <a href="https://git.io/streak-stats">
+    <img src="http://github-readme-streak-stats.herokuapp.com?user=sonichigo&theme=react&background=0d1117&border=666">
+  </a>
+<p>
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=sonichigo&column=6&theme=onedark" align="center"/>
+</div>
 
 ---
 
