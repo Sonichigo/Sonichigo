@@ -3,7 +3,6 @@
 <img alt="GIF" height="30px" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif">&nbsp;&nbsp;
 <a href="https://dev.to/sonichigo"><img height="30" src="https://raw.githubusercontent.com/WaylonWalker/WaylonWalker/main/icon/dev.png"></a>&nbsp;&nbsp;
 <a href="https://twitter.com/sonichigo1219"><img height="30" src="https://github.com/WaylonWalker/WaylonWalker/blob/main/icon/twitter.png?raw=true"></a>&nbsp;&nbsp;
-<a href="https://instagram.com/animesh.1219"><img height="30" src="https://github.com/WaylonWalker/WaylonWalker/blob/main/icon/instagram.jpg?raw=true"></a>&nbsp;&nbsp;
 <a href="https://www.buymeacoffee.com/sonichigo"><img height="30" src="https://github.com/WaylonWalker/WaylonWalker/blob/main/icon/by-me-a-coffee.png?raw=true"></a>&nbsp;&nbsp;
 <a href="https://www.linkedin.com/in/sonichigo"><img height="30" src="https://github.com/WaylonWalker/WaylonWalker/blob/main/icon/linkedin.png?raw=true"></a>&nbsp;&nbsp;
 <!--<a target="_blank"><img src="https://visitor-badge.glitch.me/badge?page_id=sonichigo.sonichigo"></a>-->
