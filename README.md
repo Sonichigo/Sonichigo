@@ -19,11 +19,11 @@ I have a passion for learning and sharing my knowledge with others a public as p
 [MyResumè CheckOut](https://github.com/Sonichigo/Sonichigo/blob/main/assets/Animesh's%20Resume.pdf)
 </p>
 
----  
+<!--  
 ### Spotify Playing 🎧
 [![Spotify](https://spotify-omega.vercel.app/api/spotify)](https://open.spotify.com/track/4BiiOzZCrXEzHRLYcYFiD5?si=29f133b1c5524fec)
 
----
+-->
 
  <p>
   <img width="200" align='left' src="https://github.com/Sonichigo/Sonichigo/blob/main/assets/logo.png">
