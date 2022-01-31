@@ -7,8 +7,13 @@
 <a href="https://www.linkedin.com/in/sonichigo"><img height="30" src="https://github.com/WaylonWalker/WaylonWalker/blob/main/icon/linkedin.png?raw=true"></a>&nbsp;&nbsp;
 </p>
 
+---
+
 # Hi there 👋
-I have a passion for learning and sharing my knowledge with others a public as possible.If you found value in something I have created, please feel free to send a [tip](https://www.buymeacoffee.com/sonichigo). You can also checkout my Microsoft Student Ambassadors Profile [here](https://studentambassadors.microsoft.com/en-US/profile/74597).
+I am a Developer Advocate intern, i have a passion for learning and sharing my knowledge with others a public as possible.If you found value in something I have created, please feel free to send a [tip](https://www.buymeacoffee.com/sonichigo). You can also checkout my Microsoft Student Ambassadors Profile [here](https://studentambassadors.microsoft.com/en-US/profile/74597).
+
+In my spare time i love reading books, working on projects ideas and write blog post. I work around the realms of **MERN**, **AERN**, **AZURE**, **C#** and many more. I want to make an impact with what I'm doing. I love connecting with peers. I'm always eager to discover new technologies.
+
 <!--
 **Sonichigo/Sonichigo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 <a target="_blank"><img src="https://visitor-badge.glitch.me/badge?page_id=sonichigo.sonichigo"></a>
@@ -19,6 +24,7 @@ I have a passion for learning and sharing my knowledge with others a public as p
 [MyResumè CheckOut](https://github.com/Sonichigo/Sonichigo/blob/main/assets/Animesh's%20Resume.pdf)
 </p>
 
+---
 <!--  
 ### Spotify Playing 🎧
 [![Spotify](https://spotify-omega.vercel.app/api/spotify)](https://open.spotify.com/track/4BiiOzZCrXEzHRLYcYFiD5?si=29f133b1c5524fec)
