@@ -55,7 +55,7 @@ I love open source.  I am not a heavy maintainer of any large libraries, but I r
 </p>
 <p>
 <img src="https://github-readme-stats.vercel.app/api?username=sonichigo&show_icons=true&count_private=true&theme=radical" width="50%">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sonichigo&layout=compact&theme=tokyonight&custom_title=Top%20Languages" width="40%">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sonichigo&layout=compact&theme=tokyonight&custom_title=Top%20Languages" width="42%">
  </p>
 <p align="center">
  <a href="https://git.io/streak-stats">
