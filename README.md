@@ -24,7 +24,6 @@ In my spare time i love reading books, working on projects ideas and write blog 
 [MyResumè CheckOut](https://github.com/Sonichigo/Sonichigo/blob/main/assets/Animesh's%20Resume.pdf)
 </p>
 
----
 <!--  
 ### Spotify Playing 🎧
 [![Spotify](https://spotify-omega.vercel.app/api/spotify)](https://open.spotify.com/track/4BiiOzZCrXEzHRLYcYFiD5?si=29f133b1c5524fec)
