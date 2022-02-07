@@ -84,4 +84,4 @@ I love open source.  I am not a heavy maintainer of any large libraries, but I r
  ---
  
  ### Spotify Playing 🎧
-[![Spotify](https://spotify-theta-five.vercel.app/api/spotify/)](https://open.spotify.com/user/ss2d27z2x7zlh74221c746xv4)
+[![Spotify](hhttps://spotify-theta-five.vercel.app/api/spotify/)](https://open.spotify.com/playlist/1JtSbKu33RjAKEIsLXzM03)
