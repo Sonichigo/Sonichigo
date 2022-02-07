@@ -24,10 +24,6 @@ In my spare time i love reading books, working on projects ideas and write blog 
 [MyResumè CheckOut](https://github.com/Sonichigo/Sonichigo/blob/main/assets/Animesh's%20Resume.pdf)
 </p>
 
-<!--  
-### Spotify Playing 🎧
-[![Spotify](https://spotify-omega.vercel.app/api/spotify)](https://open.spotify.com/track/4BiiOzZCrXEzHRLYcYFiD5?si=29f133b1c5524fec)
--->
  <p>
   <img width="200" align='left' src="https://github.com/Sonichigo/Sonichigo/blob/main/assets/logo.png">
 </p>
@@ -61,10 +57,11 @@ I love open source.  I am not a heavy maintainer of any large libraries, but I r
     <img src="http://github-readme-streak-stats.herokuapp.com?user=sonichigo&theme=react&background=0d1117&border=666">
   </a>
 <p>
+ <!--
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=sonichigo&column=6&theme=onedark" align="center"/>
 </div>
-
+-->
 ---
 
 <p align ="Center">
@@ -82,3 +79,7 @@ I love open source.  I am not a heavy maintainer of any large libraries, but I r
  <img src="https://img.shields.io/badge/Editor-VSCode-blue?style=for-the-badge&logo=visual-studio-code&logoColor=white" />&nbsp;&nbsp;&nbsp;&nbsp;
  <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white"/>
  </p>
+ 
+ ---
+ ### Spotify Playing 🎧
+[![Spotify](https://spotify-omega.vercel.app/api/spotify)](https://open.spotify.com/track/4BiiOzZCrXEzHRLYcYFiD5?si=29f133b1c5524fec)
