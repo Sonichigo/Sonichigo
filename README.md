@@ -62,7 +62,8 @@ I love open source.  I am not a heavy maintainer of any large libraries, but I r
   <img src="https://github-profile-trophy.vercel.app/?username=sonichigo&column=6&theme=onedark" align="center"/>
 </div>
 -->
----
+
+ ---
 
 <p align ="Center">
  <img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github" />&nbsp;&nbsp;&nbsp;&nbsp;
@@ -81,5 +82,6 @@ I love open source.  I am not a heavy maintainer of any large libraries, but I r
  </p>
  
  ---
+ 
  ### Spotify Playing 🎧
 [![Spotify](https://spotify-omega.vercel.app/api/spotify)](https://open.spotify.com/track/4BiiOzZCrXEzHRLYcYFiD5?si=29f133b1c5524fec)
