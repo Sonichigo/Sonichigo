@@ -10,9 +10,13 @@
 ---
 
 # Hi there 👋
-I am a Developer Advocate intern, i have a passion for learning and sharing my knowledge with others a public as possible.If you found value in something I have created, please feel free to send a [tip](https://www.buymeacoffee.com/sonichigo). You can also checkout my Microsoft Student Ambassadors Profile [here](https://studentambassadors.microsoft.com/en-US/profile/74597).
+I am a Developer Advocate intern, i have a passion for learning and sharing my knowledge with others a public as possible.If you found value in something I have created, please feel free to send a [tip](https://www.buymeacoffee.com/sonichigo). You can also checkout my Microsoft Student Ambassadors Profile [here](https://studentambassadors.microsoft.com/en-US/profile/74597). I want to make an impact with what I'm doing. I love connecting with peers. 
 
-In my spare time i love reading books, working on projects ideas and write blog post. I work around the realms of **MERN**, **AERN**, **AZURE**, **C#** and many more. I want to make an impact with what I'm doing. I love connecting with peers. I'm always eager to discover new technologies.
+In my spare time :- 
+- i love reading books.
+- Working on projects ideas. 
+- Write blog post.
+- I'm always eager to discover new technologies.
 
 <!--
 **Sonichigo/Sonichigo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -24,7 +28,9 @@ In my spare time i love reading books, working on projects ideas and write blog 
 [MyResumè CheckOut](https://github.com/Sonichigo/Sonichigo/blob/main/assets/Animesh's%20Resume.pdf)
 </p>
 
- <p>
+---
+
+<p>
   <img width="200" align='left' src="https://github.com/Sonichigo/Sonichigo/blob/main/assets/logo.png">
 </p>
 
@@ -34,14 +40,15 @@ Microsoft Learn Student Ambassadors are a global group of campus leaders who are
   
 ------
 
- <p>
-  <img width="345" align='right' src="https://github.com/WaylonWalker/WaylonWalker/blob/main/icon/hacktoberfest.png">
+<p>
+  <img height="190" align='right' src="https://pbs.twimg.com/profile_images/1436378917493948417/Hq3myvZI.jpg">
 </p>
 
 ## Boy Scout Rule
 
 I love open source.  I am not a heavy maintainer of any large libraries, but I really like the boyscout rule.  I contribute to things as I come across issues that I think other people might struggle with.  This may be things that are overlooked by someone who is deep into the library.  I 💕 a good onboarding readme with good example.
-  
+
+
 ---
 <h1 align="center"> 🔥 Contributions: </h1>
 
