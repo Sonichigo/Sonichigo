@@ -69,7 +69,7 @@ I love open source.  I am not a heavy maintainer of any large libraries, but I r
  <img src="https://img.shields.io/badge/-GitHub-purple?style=for-the-badge&logo=github" />&nbsp;&nbsp;&nbsp;&nbsp;
  <img src="https://img.shields.io/badge/-Git-orange?style=for-the-badge&logo=git" />&nbsp;&nbsp;&nbsp;&nbsp;
  <img src="https://img.shields.io/badge/-VSCode-blue?style=for-the-badge&logo=visual-studio-code" />&nbsp;&nbsp;&nbsp;&nbsp;
- <img src="https://img.shields.io/badge/-Visual-Studio-violet?style=for-the-badge&logo=visual-studio" />&nbsp;&nbsp;&nbsp;&nbsp;
+ <img src="https://img.shields.io/badge/-Visual_Studio-violet?style=for-the-badge&logo=visual-studio" />&nbsp;&nbsp;&nbsp;&nbsp;
  <img src="https://img.shields.io/badge/-Jupyter-181717?style=for-the-badge&logo=jupyter" />&nbsp;&nbsp;&nbsp;&nbsp;
  <img src="https://img.shields.io/badge/Spyder-838485?style=for-the-badge&logo=spyder%20ide&logoColor=maroon" />&nbsp;&nbsp;&nbsp;&nbsp;
  
