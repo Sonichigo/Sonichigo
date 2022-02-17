@@ -64,11 +64,10 @@ I love open source.  I am not a heavy maintainer of any large libraries, but I r
     <img src="http://github-readme-streak-stats.herokuapp.com?user=sonichigo&theme=react&background=0d1117&border=666">
   </a>
 <p>
- <!--
+
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=sonichigo&column=6&theme=onedark" align="center"/>
 </div>
--->
 
  ---
 
