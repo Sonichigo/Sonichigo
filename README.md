@@ -10,10 +10,10 @@
 ---
 
 # Hi there 👋
-I am a Developer Advocate intern, i have a passion for learning and sharing my knowledge with others a public as possible.If you found value in something I have created, please feel free to send a [tip](https://www.buymeacoffee.com/sonichigo). You can also checkout my Microsoft Student Ambassadors Profile [here](https://studentambassadors.microsoft.com/en-US/profile/74597). I want to make an impact with what I'm doing. I love connecting with peers. 
+I am a **Developer Advocate Intern**🥑, i have a passion for learning and sharing my knowledge with others a public as possible.If you found value in something I have created, please feel free to send a [tip](https://www.buymeacoffee.com/sonichigo). You can also checkout my Microsoft Student Ambassadors Profile [here](https://studentambassadors.microsoft.com/en-US/profile/74597). I want to make an impact with what I'm doing. I love connecting with peers. 
 
 In my spare time :- 
-- i love reading books.
+- I love reading books.
 - Working on projects ideas. 
 - Write blog post.
 - I'm always eager to discover new technologies.
@@ -65,9 +65,11 @@ I love open source.  I am not a heavy maintainer of any large libraries, but I r
   </a>
 <p>
 
+<!-- 
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=sonichigo&column=6&theme=onedark" align="center"/>
-</div>
+</div> 
+-->
 
  ---
 
@@ -78,6 +80,15 @@ I love open source.  I am not a heavy maintainer of any large libraries, but I r
  <img src="https://img.shields.io/badge/-Visual_Studio-violet?style=for-the-badge&logo=visual-studio" />&nbsp;&nbsp;&nbsp;&nbsp;
  <img src="https://img.shields.io/badge/-Jupyter-181717?style=for-the-badge&logo=jupyter" />&nbsp;&nbsp;&nbsp;&nbsp;
  <img src="https://img.shields.io/badge/Spyder-838485?style=for-the-badge&logo=spyder%20ide&logoColor=maroon" />&nbsp;&nbsp;&nbsp;&nbsp;
+ 
+## 🌐Frameworks i Use:
+  <img src="https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white" />&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" />&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white" />&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/Nuxt-black?style=for-the-badge&logo=nuxt.js&logoColor=white" />&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white" />&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white" />&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D" />&nbsp;&nbsp;&nbsp;&nbsp;
  
 <!-- 
 <p align ="Center">
