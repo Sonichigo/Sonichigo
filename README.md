@@ -73,15 +73,16 @@ I love open source.  I am not a heavy maintainer of any large libraries, but I r
 
  ---
 
-## 🧰Tools i Use: 
+## 🔧Tools i Use: 
  <img src="https://img.shields.io/badge/-GitHub-purple?style=for-the-badge&logo=github" />&nbsp;&nbsp;&nbsp;&nbsp;
  <img src="https://img.shields.io/badge/-Git-orange?style=for-the-badge&logo=git" />&nbsp;&nbsp;&nbsp;&nbsp;
  <img src="https://img.shields.io/badge/-VSCode-blue?style=for-the-badge&logo=visual-studio-code" />&nbsp;&nbsp;&nbsp;&nbsp;
  <img src="https://img.shields.io/badge/-Visual_Studio-violet?style=for-the-badge&logo=visual-studio" />&nbsp;&nbsp;&nbsp;&nbsp;
  <img src="https://img.shields.io/badge/-Jupyter-181717?style=for-the-badge&logo=jupyter" />&nbsp;&nbsp;&nbsp;&nbsp;
  <img src="https://img.shields.io/badge/Spyder-838485?style=for-the-badge&logo=spyder%20ide&logoColor=maroon" />&nbsp;&nbsp;&nbsp;&nbsp;
+ ![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white)
  
-## 🌐Frameworks i Use:
+## 🧰Frameworks i Use:
   <img src="https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white" />&nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" />&nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white" />&nbsp;&nbsp;&nbsp;&nbsp;
@@ -89,8 +90,13 @@ I love open source.  I am not a heavy maintainer of any large libraries, but I r
   <img src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white" />&nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white" />&nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D" />&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB" />&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white" />&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/Cockroach%20Labs-6933FF?style=for-the-badge&logo=Cockroach%20Labs&logoColor=white" />&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white" />&nbsp;&nbsp;&nbsp;&nbsp;
  
 <!-- 
+## 🌐 Languages i Use: 
 <p align ="Center">
  <img src="https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />&nbsp;&nbsp;&nbsp;&nbsp;
  <img src="https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3" />&nbsp;&nbsp;&nbsp;&nbsp;
