@@ -1,6 +1,5 @@
 # ![SONICHIGO header](https://github.com/Sonichigo/Sonichigo/blob/main/assets/Header.png)
 <p align="middle">
-<img alt="GIF" height="30px" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif">&nbsp;&nbsp;
 <a href="https://hashnode.com/@sonichigo"><img height="30" src="https://cdn.hashnode.com/res/hashnode/image/upload/v1611902473383/CDyAuTy75.png"></a>&nbsp;&nbsp;
 <a href="https://twitter.com/sonichigo1219"><img height="30" src="https://github.com/WaylonWalker/WaylonWalker/blob/main/icon/twitter.png?raw=true"></a>&nbsp;&nbsp;
 <a href="https://www.buymeacoffee.com/sonichigo"><img height="30" src="https://github.com/WaylonWalker/WaylonWalker/blob/main/icon/by-me-a-coffee.png?raw=true"></a>&nbsp;&nbsp;
@@ -23,11 +22,11 @@ In my spare time :-
 **Sonichigo/Sonichigo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 <a target="_blank"><img src="https://visitor-badge.glitch.me/badge?page_id=sonichigo.sonichigo"></a>
  ---
- -->
+
 <p align="Center"> 
 
 [MyResumè CheckOut](https://github.com/Sonichigo/Sonichigo/blob/main/assets/Animesh's%20Resume.pdf)
-</p>
+</p> -->
 
 ---
 
