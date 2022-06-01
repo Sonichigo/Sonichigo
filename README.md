@@ -10,7 +10,7 @@
 ---
 
 # Hi there 👋
-I am a **Developer Advocate Intern**🥑, i have a passion for learning and sharing my knowledge with others a public as possible.If you found value in something I have created, please feel free to send a [tip](https://www.buymeacoffee.com/sonichigo). You can also checkout my Microsoft Student Ambassadors Profile [here](https://studentambassadors.microsoft.com/en-US/profile/74597). I want to make an impact with what I'm doing. I love connecting with peers. 
+I am a **OpenSource Contributor & do Developer Advocacy**🥑, I have a passion for learning and sharing my knowledge with others a public as possible.If you found value in something I have created, please feel free to send a [tip](https://www.buymeacoffee.com/sonichigo). You can also checkout my Microsoft Student Ambassadors Profile [here](https://studentambassadors.microsoft.com/en-US/profile/74597). I want to make an impact with what I'm doing. I love connecting with peers. 
 
 In my spare time :- 
 - I love reading books.
