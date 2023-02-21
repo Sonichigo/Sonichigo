@@ -41,7 +41,7 @@ Microsoft Learn Student Ambassadors are a global group of campus leaders who are
 ------
 
 <p>
-  <img height="190" align='right' src="https://pbs.twimg.com/profile_images/1436378917493948417/Hq3myvZI.jpg">
+  <img height="190" align='right' src="https://pbs.twimg.com/profile_images/1567906020831150081/oJ7mKaaj_400x400.jpg">
 </p>
 
 ## Boy Scout Rule
