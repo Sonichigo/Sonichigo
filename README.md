@@ -60,9 +60,12 @@ I love open source.  I am not a heavy maintainer of any large libraries, but I r
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sonichigo&layout=compact&theme=tokyonight&custom_title=Top%20Languages" width="42%">
  </p>
 <p align="center">
- <a href="https://git.io/streak-stats">
+ 
+ [![@Sonichigo's Holopin board](https://holopin.me/sonichigo)](https://holopin.io/@sonichigo)
+ 
+ <!-- <a href="https://git.io/streak-stats">
     <img src="http://github-readme-streak-stats.herokuapp.com?user=sonichigo&theme=react&background=0d1117&border=666">
-  </a>
+  </a> -->
 <p>
 
 <!-- 
