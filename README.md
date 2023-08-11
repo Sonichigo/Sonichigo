@@ -73,6 +73,9 @@ I love open source.  I am not a heavy maintainer of any large libraries, but I r
   <img src="https://github-profile-trophy.vercel.app/?username=sonichigo&column=6&theme=onedark" align="center"/>
 </div> 
 -->
+<p>
+  <img src="https://api.vaunt.dev/v1/github/entities/sonichigo/achievements?format=svg&limit=3" width="350" />
+</p>
 
  ---
 
