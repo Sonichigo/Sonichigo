@@ -74,7 +74,7 @@ I love open source.  I am not a heavy maintainer of any large libraries, but I r
 </div> 
 -->
 <p>
-  <img src="https://api.vaunt.dev/v1/github/entities/sonichigo/achievements?format=svg&limit=3" width="350" />
+  <img decoding="async" loading="lazy" src="https://api.vaunt.dev/v1/github/entities/sonichigo/achievements?format=svg&limit=3" width="350" />
 </p>
 
  ---
