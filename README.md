@@ -73,9 +73,16 @@ I love open source.  I am not a heavy maintainer of any large libraries, but I r
   <img src="https://github-profile-trophy.vercel.app/?username=sonichigo&column=6&theme=onedark" align="center"/>
 </div> 
 -->
+---
+
+[![Vaunt Community](https://api.vaunt.dev/v1/github/entities/Sonichigo/badges/community)](https://community.vaunt.dev/board/Sonichigo)
 <p>
-  <img decoding="async" loading="lazy" src="https://api.vaunt.dev/v1/github/entities/sonichigo/achievements?format=svg&limit=3" width="350" />
+<a href="https://vaunt.dev">
+<img src="https://api.vaunt.dev/v1/github/entities/Sonichigo/contributions?format=svg" width="45%" />
+</a>
+<img decoding="async" loading="lazy" src="https://api.vaunt.dev/v1/github/entities/sonichigo/achievements?format=svg&limit=3" width="50%" />
 </p>
+
 
  ---
 
