@@ -59,6 +59,18 @@ I love open source.  I am not a heavy maintainer of any large libraries, but I r
 <img src="https://github-readme-stats.vercel.app/api?username=sonichigo&show_icons=true&count_private=true&theme=radical" width="50%">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sonichigo&layout=compact&theme=tokyonight&custom_title=Top%20Languages" width="42%">
  </p>
+
+
+[![Vaunt Community](https://api.vaunt.dev/v1/github/entities/Sonichigo/badges/community)](https://community.vaunt.dev/board/Sonichigo)
+<p>
+<a href="https://vaunt.dev">
+<img src="https://api.vaunt.dev/v1/github/entities/Sonichigo/contributions?format=svg" width="45%" />
+</a>
+<img decoding="async" loading="lazy" src="https://api.vaunt.dev/v1/github/entities/sonichigo/achievements?format=svg&limit=3" width="50%" />
+</p>
+
+ ---
+ 
 <p align="center">
  
  [![@Sonichigo's Holopin board](https://holopin.me/sonichigo)](https://holopin.io/@sonichigo)
@@ -73,18 +85,8 @@ I love open source.  I am not a heavy maintainer of any large libraries, but I r
   <img src="https://github-profile-trophy.vercel.app/?username=sonichigo&column=6&theme=onedark" align="center"/>
 </div> 
 -->
+
 ---
-
-[![Vaunt Community](https://api.vaunt.dev/v1/github/entities/Sonichigo/badges/community)](https://community.vaunt.dev/board/Sonichigo)
-<p>
-<a href="https://vaunt.dev">
-<img src="https://api.vaunt.dev/v1/github/entities/Sonichigo/contributions?format=svg" width="45%" />
-</a>
-<img decoding="async" loading="lazy" src="https://api.vaunt.dev/v1/github/entities/sonichigo/achievements?format=svg&limit=3" width="50%" />
-</p>
-
-
- ---
 
 ## 🔧Tools i Use: 
  <img src="https://img.shields.io/badge/-GitHub-purple?style=for-the-badge&logo=github" />&nbsp;&nbsp;&nbsp;&nbsp;
