@@ -10,8 +10,7 @@ jobs:
     runs-on: ubuntu-latest
     steps:
     - name: pr-change-commenter
-    - uses: Sonichigo/GitHub-Action-s@v1
-    - uses: ./
+      uses: Sonichigo/GitHub-Action-s@v1
       with:
         owner: ${{ github.repository_owner }}
         repo: ${{ github.event.repository.name }}
