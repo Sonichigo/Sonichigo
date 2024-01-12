@@ -1,0 +1,13 @@
+name: change-log
+on:
+  push:
+    branches:
+      - main
+  pull_request:
+    types: [opened, reopened]
+jobs:
+  change-log:
+    runs-on: ubuntu-latest
+    steps:
+    - name: pr-change-commenter
+      uses: Sonichigo/GitHub-Action-s@v1
