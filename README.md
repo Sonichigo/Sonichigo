@@ -1,22 +1,22 @@
 # ![SONICHIGO header](https://github.com/Sonichigo/Sonichigo/blob/main/assets/Header.png)
 <p align="middle">
-<a href="https://hashnode.com/@sonichigo"><img height="30" src="https://cdn.hashnode.com/res/hashnode/image/upload/v1611902473383/CDyAuTy75.png"></a>&nbsp;&nbsp;
+<a href="https://sonichigo.com"><img height="30" src="https://cdn.hashnode.com/res/hashnode/image/upload/v1611902473383/CDyAuTy75.png"></a>&nbsp;&nbsp;
 <a href="https://twitter.com/sonichigo1219"><img height="30" src="https://github.com/WaylonWalker/WaylonWalker/blob/main/icon/twitter.png?raw=true"></a>&nbsp;&nbsp;
-<a href="https://www.buymeacoffee.com/sonichigo"><img height="30" src="https://github.com/WaylonWalker/WaylonWalker/blob/main/icon/by-me-a-coffee.png?raw=true"></a>&nbsp;&nbsp;
+<a href="https://github.com/sponsors/Sonichigo"><img height="30" src="https://www.digitalocean.com/api/static-content/v1/images?src=https%3A%2F%2Fwww.digitalocean.com%2F_next%2Fstatic%2Fmedia%2Fopen-source.5ab0a7a2.svg&raw=true"></a>&nbsp;&nbsp;
 <a href="https://www.linkedin.com/in/sonichigo"><img height="30" src="https://github.com/WaylonWalker/WaylonWalker/blob/main/icon/linkedin.png?raw=true"></a>&nbsp;&nbsp;
-<a href="https://www.polywork.com/sonichigo"><img height="30" src="https://www.scottbrady91.com/img/logos/polywork.svg"></a>&nbsp;&nbsp;
 </p>
 
 ---
 
 # Hi there 👋
+
 I am a **OpenSource Contributor & do Developer Advocacy**🥑, I have a passion for learning and sharing my knowledge with others a public as possible.If you found value in something I have created, please feel free to send a [tip](https://www.buymeacoffee.com/sonichigo). You can also checkout my Microsoft Student Ambassadors Profile [here](https://studentambassadors.microsoft.com/en-US/profile/74597). I want to make an impact with what I'm doing. I love connecting with peers. 
 
 In my spare time :- 
 - I love reading books.
-- Working on projects ideas. 
-- Write blog post.
-- I'm always eager to discover new technologies.
+- Working on projects ideas.
+- I'm always eager to discover new technologies and document my experience with them.
+- Tinker >> Builder
 
 <!--
 **Sonichigo/Sonichigo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -41,7 +41,7 @@ Microsoft Learn Student Ambassadors are a global group of campus leaders who are
 ------
 
 <p>
-  <img height="190" align='right' src="https://pbs.twimg.com/profile_images/1567906020831150081/oJ7mKaaj_400x400.jpg">
+  <img height="190" align='right' src="https://www.digitalocean.com/api/static-content/v1/images?src=https%3A%2F%2Fwww.digitalocean.com%2F_next%2Fstatic%2Fmedia%2Fopen-source-1-kiwi.40b3a2ab.svg&raw=true">
 </p>
 
 ## Boy Scout Rule
@@ -55,18 +55,15 @@ I love open source.  I am not a heavy maintainer of any large libraries, but I r
 <p align="center">
 <img src="http://www.hackthebox.eu/badge/image/440448">
 </p>
-<p>
+<p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=sonichigo&show_icons=true&count_private=true&theme=radical" width="50%">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sonichigo&layout=compact&theme=tokyonight&custom_title=Top%20Languages" width="42%">
- </p>
+</p>
 
-
-[![Vaunt Community](https://api.vaunt.dev/v1/github/entities/Sonichigo/badges/community)](https://community.vaunt.dev/board/Sonichigo)
-<p>
+<p align="center">
 <a href="https://vaunt.dev">
 <img src="https://api.vaunt.dev/v1/github/entities/Sonichigo/contributions?format=svg" width="45%" />
 </a>
-<img decoding="async" loading="lazy" src="https://api.vaunt.dev/v1/github/entities/sonichigo/achievements?format=svg&limit=6" width="40%" />
 </p>
 
  ---
@@ -123,10 +120,10 @@ I love open source.  I am not a heavy maintainer of any large libraries, but I r
 
  <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white"/>
  </p>
---> 
-
- ---
 
 ### Spotify Playing 🎧
  
 [![Spotify](https://spotify-theta-five.vercel.app/api/spotify/)](https://open.spotify.com/playlist/1JtSbKu33RjAKEIsLXzM03)
+--> 
+
+---
