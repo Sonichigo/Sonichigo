@@ -24,12 +24,14 @@ In the spare time I get:-
 
 | Project | What It Does | Tech |
 |---------|-------------|------|
-| [KubeTracer](https://github.com/Sonichigo/KubeTracer) | eBPF-based security monitoring for Kubernetes cluster nodes — tracks process executions, privilege escalations, and suspicious mounts | Shell, eBPF, K8s |
-| [inventory](https://github.com/Sonichigo/inventory) | Load-heavy BBQ inventory API for demonstrating database performance monitoring with DBMarlin on Kubernetes | Go, K8s |
-| [translate.ai](https://github.com/Sonichigo/translate.ai) | AI-powered translation tool supporting 30+ languages (including Klingon) built with Azure OpenAI | Next.js, TypeScript |
-| [validYML](https://github.com/Sonichigo/validYML) | VS Code extension for real-time YAML validation, best practice enforcement & cleanup ([Marketplace](https://marketplace.visualstudio.com/items?itemName=Sonichigo.validyml)) | TypeScript |
-| [GitHub-Org-Reminder](https://github.com/Sonichigo/GitHub-Org-Reminder) | GitHub Action that sends Slack reminders for pending pull requests — keeps teams on track | Python, GitHub Actions |
-| [wallpaper.ai](https://github.com/Sonichigo/wallpaper.ai) | Generate desktop wallpapers with AI in minutes | Next.js, TypeScript, Azure |
+| [KubeTracer](https://github.com/Sonichigo/KubeTracer) | eBPF-based security monitoring for K8s cluster nodes — detects unauthorized processes, privilege escalations & suspicious mounts | Shell, eBPF, K8s |
+| [dbops](https://github.com/Sonichigo/dbops) | Database DevOps examples — Liquibase & Flyway changelogs for schema versioning, migrations & rollbacks | Liquibase, Flyway, SQL |
+| [translate.ai](https://github.com/Sonichigo/translate.ai) | AI-powered translation supporting 30+ languages (incl. Klingon) with Azure OpenAI | Next.js, TypeScript |
+| [validYML](https://github.com/Sonichigo/validYML) | VS Code extension for real-time YAML validation & cleanup ([Marketplace](https://marketplace.visualstudio.com/items?itemName=Sonichigo.validyml)) | TypeScript |
+| [inventory](https://github.com/Sonichigo/inventory) | Load-heavy API for demonstrating database performance degradation & monitoring with DBMarlin on K8s | Go, K8s |
+| [GitHub-Org-Reminder](https://github.com/Sonichigo/GitHub-Org-Reminder) | GitHub Action that sends Slack reminders for pending PRs | Python, GitHub Actions |
+| [wallpaper.ai](https://github.com/Sonichigo/wallpaper.ai) | Generate desktop wallpapers with AI in minutes | Next.js, Azure OpenAI |
+
 ---
 
 ## ✍️ Recent Writing
