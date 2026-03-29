@@ -1,24 +1,68 @@
 # ![SONICHIGO header](https://github.com/Sonichigo/Sonichigo/blob/main/assets/Header.png)
-<p align="middle">
-<a href="https://sonichigo.com"><img height="30" src="https://cdn.hashnode.com/res/hashnode/image/upload/v1611902473383/CDyAuTy75.png"></a>&nbsp;&nbsp;
-<a href="https://twitter.com/sonichigo1219"><img height="30" src="https://github.com/WaylonWalker/WaylonWalker/blob/main/icon/twitter.png?raw=true"></a>&nbsp;&nbsp;
-<a href="https://github.com/sponsors/Sonichigo"><img height="30" src="https://www.digitalocean.com/api/static-content/v1/images?src=https%3A%2F%2Fwww.digitalocean.com%2F_next%2Fstatic%2Fmedia%2Fopen-source.5ab0a7a2.svg&raw=true"></a>&nbsp;&nbsp;
-<a href="https://www.linkedin.com/in/sonichigo"><img height="30" src="https://github.com/WaylonWalker/WaylonWalker/blob/main/icon/linkedin.png?raw=true"></a>&nbsp;&nbsp;
-</p>
 
----
+# Hey, I'm Animesh Pathak 👋
 
-# Hi there 👋
+**Developer Relations Engineer @ [Harness](https://harness.io)** | Database DevOps • APIs • Testing • Open Source
 
-I am a **OpenSource Contributor & do Developer Advocacy**🥑, I have a passion for learning and sharing my knowledge with others a public as possible.If you found value in something I have created, please feel free to send a [tip](https://www.buymeacoffee.com/sonichigo). You can also checkout my Microsoft Student Ambassadors Profile [here](https://studentambassadors.microsoft.com/en-US/profile/74597). I want to make an impact with what I'm doing. I love connecting with peers. 
+I bridge the gap between developers and data teams, building and evangelizing scalable DB DevOps workflows. Previously DevRel at [Keploy](https://keploy.io). Speaker, writer, and community builder across APAC — organized 40+ events in Bhubaneswar, Noida, and Bengaluru.
 
-In my spare time :- 
+In the spare time I get:- 
 - I love reading books.
 - Working on projects ideas.
 - I'm always eager to discover new technologies and document my experience with them.
 - Tinker >> Builder
 
+[![Twitter](https://img.shields.io/badge/-@sonichigo1219-1DA1F2?style=flat&logo=x&logoColor=white)](https://twitter.com/sonichigo1219)
+[![LinkedIn](https://img.shields.io/badge/-sonichigo-0A66C2?style=flat&logo=linkedin)](https://linkedin.com/in/sonichigo)
+[![Blog](https://img.shields.io/badge/-blog.sonichigo.com-2962FF?style=flat&logo=hashnode&logoColor=white)](https://sonichigo.hashnode.dev)
+[![Website](https://img.shields.io/badge/-sonichigo.com-000?style=flat&logo=vercel)](https://sonichigo.com)
+[![Sponsor](https://img.shields.io/badge/-Sponsor-EA4AAA?style=flat&logo=githubsponsors&logoColor=white)](https://github.com/sponsors/Sonichigo)
+
+---
+
+## 🔨 Featured Projects
+
+| Project | What It Does | Tech |
+|---------|-------------|------|
+| [KubeTracer](https://github.com/Sonichigo/KubeTracer) | eBPF-based security monitoring for Kubernetes cluster nodes — tracks process executions, privilege escalations, and suspicious mounts | Shell, eBPF, K8s |
+| [inventory](https://github.com/Sonichigo/inventory) | Load-heavy BBQ inventory API for demonstrating database performance monitoring with DBMarlin on Kubernetes | Go, K8s |
+| [translate.ai](https://github.com/Sonichigo/translate.ai) | AI-powered translation tool supporting 30+ languages (including Klingon) built with Azure OpenAI | Next.js, TypeScript |
+| [validYML](https://github.com/Sonichigo/validYML) | VS Code extension for real-time YAML validation, best practice enforcement & cleanup ([Marketplace](https://marketplace.visualstudio.com/items?itemName=Sonichigo.validyml)) | TypeScript |
+| [GitHub-Org-Reminder](https://github.com/Sonichigo/GitHub-Org-Reminder) | GitHub Action that sends Slack reminders for pending pull requests — keeps teams on track | Python, GitHub Actions |
+| [wallpaper.ai](https://github.com/Sonichigo/wallpaper.ai) | Generate desktop wallpapers with AI in minutes | Next.js, TypeScript, Azure |
+---
+
+## ✍️ Recent Writing
+
+<!-- BLOG-POST-LIST:START -->
+- [How diffChangelog and Snapshots Work Together](https://blog.sonichigo.com/how-diffchangelog-and-snapshots-work-together) — Feb 2026
+- [Observability for Databases in CI/CD](https://blog.sonichigo.com/observability-for-databases-in-cicd) — Sep 2025
+- [How to Effectively Vet Your Supply Chain](https://blog.sonichigo.com/how-to-effectively-vet-your-supply-chain-for-optimal-performance) — May 2025
+- [Building a Node-Level Security Monitoring Pipeline](https://blog.sonichigo.com/building-a-node-level-security-monitoring-pipeline) — May 2025
+- [How Liquibase Makes Life Easy for DB Admins](https://blog.sonichigo.com/how-liquibase-makes-life-easy-for-db-admins) — May 2025
+- [Breaking Language Barriers with Azure OpenAI + Next.js](https://blog.sonichigo.com/breaking-language-barriers-with-azure-openai-and-nextjs) — Feb 2025
+- [How to Write a Custom GitHub Action](https://blog.sonichigo.com/how-to-write-a-custom-github-action) — Jan 2024
+<!-- BLOG-POST-LIST:END -->
+
+➡️ [...more on blog.sonichigo.com](https://blog.sonichigo.com)
+
+---
+
+## 🎤 Speaking & Community
+
+- **DevRelKaigi 2025** — "Scaling DevRel with Minimal Resources"
+- **DevOpsDays Bengaluru** — eBPF & network monitoring
+- **GitTogether** — Open source workflows
+- **MoT Bengaluru** — Organizer
+- **40+ events** organized across Bhubaneswar, Noida & Bengaluru
+
 <!--
+## 🛠️ Tech Stack
+
+`Go` `TypeScript` `Python` `Docker` `Kubernetes` `eBPF` `Next.js` `Bun` `PostgreSQL` `GitHub Actions` `Azure`
+
+---
+
 **Sonichigo/Sonichigo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 <a target="_blank"><img src="https://visitor-badge.glitch.me/badge?page_id=sonichigo.sonichigo"></a>
  ---
@@ -26,7 +70,7 @@ In my spare time :-
 <p align="Center"> 
 
 [MyResumè CheckOut](https://github.com/Sonichigo/Sonichigo/blob/main/assets/Animesh's%20Resume.pdf)
-</p> -->
+</p> 
 
 ---
 
@@ -37,7 +81,8 @@ In my spare time :-
 ## MLSA - GOLD
 
 Microsoft Learn Student Ambassadors are a global group of campus leaders who are eager to help fellow students, create robust tech communities, and develop technical and career skills for the future. I created a community at my locality to enhance other students' skills. I've conducted workshops and talks.
-  
+-->
+
 ------
 
 <p>
@@ -48,7 +93,7 @@ Microsoft Learn Student Ambassadors are a global group of campus leaders who are
 
 I love open source.  I am not a heavy maintainer of any large libraries, but I really like the boyscout rule.  I contribute to things as I come across issues that I think other people might struggle with.  This may be things that are overlooked by someone who is deep into the library.  I 💕 a good onboarding readme with good example.
 
-
+<!--
 ---
 <h1 align="center"> 🔥 Contributions: </h1>
 
@@ -65,19 +110,17 @@ I love open source.  I am not a heavy maintainer of any large libraries, but I r
 <img src="https://api.vaunt.dev/v1/github/entities/Sonichigo/contributions?format=svg" width="45%" />
 </a>
 </p>
-
- ---
- 
+-->
+ <!--
 <p align="center">
  
  [![@Sonichigo's Holopin board](https://holopin.me/sonichigo)](https://holopin.io/@sonichigo)
  
  <!-- <a href="https://git.io/streak-stats">
     <img src="http://github-readme-streak-stats.herokuapp.com?user=sonichigo&theme=react&background=0d1117&border=666">
-  </a> -->
+  </a> 
 <p>
 
-<!-- 
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=sonichigo&column=6&theme=onedark" align="center"/>
 </div> 
