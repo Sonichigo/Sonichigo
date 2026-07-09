@@ -12,9 +12,9 @@ In the spare time I get:-
 - I'm always eager to discover new technologies and document my experience with them.
 - Tinker >> Builder
 
-[![Twitter](https://img.shields.io/badge/-@sonichigo1219-1DA1F2?style=flat&logo=x&logoColor=white)](https://twitter.com/sonichigo1219)
-[![LinkedIn](https://img.shields.io/badge/-sonichigo-0A66C2?style=flat&logo=linkedin)](https://linkedin.com/in/sonichigo)
-[![Blog](https://img.shields.io/badge/-blog.sonichigo.com-2962FF?style=flat&logo=hashnode&logoColor=white)](https://sonichigo.hashnode.dev)
+[![Twitter](https://img.shields.io/badge/-1DA1F2?style=flat&logo=x&logoColor=white)](https://twitter.com/sonichigo1219)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077b5?logo=data:image/svg+xml;base64,PHN2ZyB3aWR0aD0nMjU2JyBoZWlnaHQ9JzI1NicgeG1sbnM9J2h0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnJyBwcmVzZXJ2ZUFzcGVjdFJhdGlvPSd4TWlkWU1pZCcgdmlld0JveD0nMCAwIDI1NiAyNTYnPjxwYXRoIGQ9J00yMTguMTIzIDIxOC4xMjdoLTM3LjkzMXYtNTkuNDAzYzAtMTQuMTY1LS4yNTMtMzIuNC0xOS43MjgtMzIuNC0xOS43NTYgMC0yMi43NzkgMTUuNDM0LTIyLjc3OSAzMS4zNjl2NjAuNDNoLTM3LjkzVjk1Ljk2N2gzNi40MTN2MTYuNjk0aC41MWEzOS45MDcgMzkuOTA3IDAgMCAxIDM1LjkyOC0xOS43MzNjMzguNDQ1IDAgNDUuNTMzIDI1LjI4OCA0NS41MzMgNTguMTg2bC0uMDE2IDY3LjAxM1pNNTYuOTU1IDc5LjI3Yy0xMi4xNTcuMDAyLTIyLjAxNC05Ljg1Mi0yMi4wMTYtMjIuMDA5LS4wMDItMTIuMTU3IDkuODUxLTIyLjAxNCAyMi4wMDgtMjIuMDE2IDEyLjE1Ny0uMDAzIDIyLjAxNCA5Ljg1MSAyMi4wMTYgMjIuMDA4QTIyLjAxMyAyMi4wMTMgMCAwIDEgNTYuOTU1IDc5LjI3bTE4Ljk2NiAxMzguODU4SDM3Ljk1Vjk1Ljk2N2gzNy45N3YxMjIuMTZaTTIzNy4wMzMuMDE4SDE4Ljg5QzguNTgtLjA5OC4xMjUgOC4xNjEtLjAwMSAxOC40NzF2MjE5LjA1M2MuMTIyIDEwLjMxNSA4LjU3NiAxOC41ODIgMTguODkgMTguNDc0aDIxOC4xNDRjMTAuMzM2LjEyOCAxOC44MjMtOC4xMzkgMTguOTY2LTE4LjQ3NFYxOC40NTRjLS4xNDctMTAuMzMtOC42MzUtMTguNTg4LTE4Ljk2Ni0xOC40NTMnIGZpbGw9JyNmZmYnLz48L3N2Zz4K)](https://linkedin.com/in/sonichigo)
+[![Blog](https://img.shields.io/badge/-Blogs-2962FF?style=flat&logo=hashnode&logoColor=white)](https://sonichigo.com/posts)
 [![Website](https://img.shields.io/badge/-sonichigo.com-000?style=flat&logo=vercel)](https://sonichigo.com)
 [![Sponsor](https://img.shields.io/badge/-Sponsor-EA4AAA?style=flat&logo=githubsponsors&logoColor=white)](https://github.com/sponsors/Sonichigo)
 
@@ -37,26 +37,29 @@ In the spare time I get:-
 ## ✍️ Recent Writing
 
 <!-- BLOG-POST-LIST:START -->
-- [How diffChangelog and Snapshots Work Together](https://blog.sonichigo.com/how-diffchangelog-and-snapshots-work-together) — Feb 2026
-- [Observability for Databases in CI/CD](https://blog.sonichigo.com/observability-for-databases-in-cicd) — Sep 2025
-- [How to Effectively Vet Your Supply Chain](https://blog.sonichigo.com/how-to-effectively-vet-your-supply-chain-for-optimal-performance) — May 2025
-- [Building a Node-Level Security Monitoring Pipeline](https://blog.sonichigo.com/building-a-node-level-security-monitoring-pipeline) — May 2025
-- [How Liquibase Makes Life Easy for DB Admins](https://blog.sonichigo.com/how-liquibase-makes-life-easy-for-db-admins) — May 2025
-- [Breaking Language Barriers with Azure OpenAI + Next.js](https://blog.sonichigo.com/breaking-language-barriers-with-azure-openai-and-nextjs) — Feb 2025
-- [How to Write a Custom GitHub Action](https://blog.sonichigo.com/how-to-write-a-custom-github-action) — Jan 2024
+- [How diffChangelog and Snapshots Work Together](https://sonichigo.hashnode.dev/how-diffchangelog-and-snapshots-work-together) — Feb 2026
+- [Observability for Databases in CI/CD](https://sonichigo.hashnode.dev/observability-for-databases-in-cicd) — Sep 2025
+- [How to Effectively Vet Your Supply Chain](https://sonichigo.hashnode.dev/how-to-effectively-vet-your-supply-chain-for-optimal-performance) — May 2025
+- [Building a Node-Level Security Monitoring Pipeline](https://sonichigo.hashnode.dev/building-a-node-level-security-monitoring-pipeline) — May 2025
+- [How Liquibase Makes Life Easy for DB Admins](https://sonichigo.hashnode.dev/how-liquibase-makes-life-easy-for-db-admins) — May 2025
+- [Breaking Language Barriers with Azure OpenAI + Next.js](https://sonichigo.hashnode.dev/breaking-language-barriers-with-azure-openai-and-nextjs) — Feb 2025
+- [How to Write a Custom GitHub Action](https://sonichigo.hashnode.dev/how-to-write-a-custom-github-action) — Jan 2024
 <!-- BLOG-POST-LIST:END -->
 
-➡️ [...more on blog.sonichigo.com](https://blog.sonichigo.com)
+➡️ [...more blogs](https://sonichigo.com/posts)
 
 ---
 
 ## 🎤 Speaking & Community
 
+- **MCP Dev Summit Bangalore 2026** - About Agents, MCP and Skills - 3 different talks
 - **DevRelKaigi 2025** — "Scaling DevRel with Minimal Resources"
 - **DevOpsDays Bengaluru** — eBPF & network monitoring
 - **GitTogether** — Open source workflows
 - **MoT Bengaluru** — Organizer
 - **40+ events** organized across Bhubaneswar, Noida & Bengaluru
+
+➡️ [...more talks](https://sonichigo.com/talks)
 
 <!--
 ## 🛠️ Tech Stack
